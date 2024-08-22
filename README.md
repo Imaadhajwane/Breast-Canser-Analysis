@@ -1,7 +1,7 @@
 # Breast-Canser-Analysis
 
 ## Project Overview:
-The project focuses on the detection of breast cancer using machine learning techniques. 
+The project focuses on the detection of breast cancer using machine learning techniques.  
 The dataset comprises real-valued features computed for each cell nucleus obtained from breast biopsies. 
 The diagnosis column indicates whether the tumor is malignant (M) or benign (B). 
 The goal is to develop a predictive model that can accurately classify tumors based on these features.
