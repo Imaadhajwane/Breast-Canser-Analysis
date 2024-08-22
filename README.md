@@ -13,7 +13,7 @@ The goal is to develop a predictive model that can accurately classify tumors ba
 4. Texture: Standard deviation of gray-scale values.
 5. Perimeter: Perimeter of the cell nucleus.
 6. Area: Area of the cell nucleus.
-7. Smoothness: Local variation in radius lengths.
+7. Smoothness: Local variation in radius lengths. 
 8. Compactness: Perimeter^2 / Area - 1.0.
 9. Concavity: Severity of concave portions of the contour.
 10. Concave Points: Number of concave portions of the contour.
