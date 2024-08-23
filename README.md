@@ -7,7 +7,7 @@ The diagnosis column indicates whether the tumor is malignant (M) or benign (B).
 The goal is to develop a predictive model that can accurately classify tumors based on these features. 
 
 ## Data Columns:
-1. ID number: Unique identifier for each sample.
+1. ID number: Unique identifier for each  sample.
 2. Diagnosis: Target variable indicating whether the tumor is malignant (M) or benign (B).
 3. Radius: Mean distance from the center to points on the perimeter.
 4. Texture: Standard deviation of gray-scale values.
