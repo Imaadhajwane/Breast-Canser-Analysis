@@ -4,7 +4,7 @@
 The project focuses on the detection of breast cancer using machine learning techniques.  
 The dataset comprises real-valued features computed for each cell nucleus obtained from breast biopsies. 
 The diagnosis column indicates whether the tumor is malignant (M) or benign (B). 
-The goal is to develop a predictive model that can accurately classify tumors based on these features.
+The goal is to develop a predictive model that can accurately classify tumors based on these features. 
 
 ## Data Columns:
 1. ID number: Unique identifier for each sample.
